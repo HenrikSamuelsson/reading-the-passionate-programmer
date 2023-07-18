@@ -64,3 +64,13 @@ The essence of this tip is that you need to you need to surround yourself with p
 ### Exercise 4: Act on Be the Worst
 
 Can try to work with people that are better than you at work. Can also work at side project on your spare time, can be open source project that are a little bit easier to get into than closed projects that you need a contacts in your network to gain access to.
+
+## Tip 5: Invest in Your Intelligence
+
+Learn other programming languages than the one you use the most. Motivation here is that it shows to recruiters that you are seriously into software development.
+
+Would like to add here that learning other types of languages tends to teach you about he weaknesses in your daily language and think of ways of working around these.
+
+### Exercise 5: Act on Invest in Your Intelligence
+
+I personally at work do systems programming in C, C++. Could possibly go for more script like languages like Python, or make something for he Web to act on this tip.
