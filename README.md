@@ -19,7 +19,7 @@ Can be beneficial to invest time in learning new technologies that might be a hi
 
 Besides the new and old there is also a big part in the middle that have been around for a while an likely to stick around, these technologies are relevant to learn more about.
 
-### Exercise (Act on It)
+### Exercise 1: Act on It
 
 List of early, middle, and late adaption technologies, as I see it in 2023.
 
@@ -41,8 +41,18 @@ What is in demand will vary over time. New technologies can be lucrative at the 
 
 Outsourcing can be a challenge if living in a country with high living standards and hence high salaries. There is a risk that the company moves part or the whole development department to country with lower costs. It can be beneficial to keep track on what technology low cost countries specialise in and then either avoid this tech or ensure having expertise knowledge in this area to fend of the competition.
 
-Exercise (Act on It)
+### Exercise 2: Act on It
 
 Off shore countries offer a wide array of different services such as blockchain, application programming interfaces, application development, data analytics, AI, testing services, support services.
 
 Since such a wide array of services are offered the best option is probably to specialise and work hard to become expert in a given field or ideally in a few fields.
+
+## Tip 3: Coding Don't Cut It Any More
+
+Do not neglect the business domain. A business domain defines the company's overall area of activity. Generally speaking, it's the service the company provides to its clients.
+
+### Exercise 3: Act on It
+
+Do read the news on your companies website and the company news letters. Follow blogs and news channels related to your business domain.
+
+Have lunch with or coffee with the business side of the company you work at.
