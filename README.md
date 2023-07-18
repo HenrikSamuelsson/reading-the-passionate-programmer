@@ -17,18 +17,22 @@ There is limited time available and many technologies to master. Need to try to 
 
 Can be beneficial to invest time in learning new technologies that might be a hit and come into high demand. On the other hand it can pay-off to have expertise in old dying technologies because these will need to be maintained and there is limited amount of people that can do this in the end.
 
+Besides the new and old there is also a big part in the middle that have been around for a while an likely to stick around, these technologies are relevant to learn more about.
+
 ### Exercise (Act on It)
 
-List of early, middle, and late adaption technologies as I see it in 2023.
+List of early, middle, and late adaption technologies, as I see it in 2023.
 
 #### Early
 
-Rust, Kotlin, Matlab, Artificial Intelligence, Blockchain, Low-code development, IoT, Cloud Computing, Progressive Web Apps, Microservices, DevSecOps.
+Rust, Kotlin, Matlab, Artificial Intelligence, Blockchain, Low-code development, IoT, Cloud Computing, Progressive Web Apps, Microservices, DevSecOps, robotics and drones.
 
 #### Middle
 
-Python, C, C++, C#, JavaScript, Internet, Databases, Base operating systems (Windows, Linux, Android), Software development in general, PC's, System Design.
+Python, C, C++, C#, JavaScript, Internet, Databases, Base operating systems (Windows, Linux, Android), Software development in general, PC's, System Design, containers, Git, code quality.
 
 #### Late
 
-Java, 
+Java, Assembly, Fortran, Cobol, Ruby, wired communication, Eclipse, Subversion, Non-ip networks.
+
+## Tip 2: 
