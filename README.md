@@ -79,6 +79,16 @@ I personally at work do systems programming in C, C++. Could possibly go for mor
 
 Don't trade fun for safety. Can be safe to work 9 to 5 at a big solid company but it if it is'nt fun then your are wasting away your only short life.
 
-### Exercise 6: Don't Listen to Your Parents
+### Exercise 6: Act on Don't Listen to Your Parents
 
 Exercise to think about how much fear drives career choices. In my case not so much, when starting a new job it has usually been due to not functional work environment or because you should change job every third year because it has been proven beneficial for your salary growth.
+
+## Tip 7: Be a Generalist
+
+Do not only do the absolute minimum and or spend time on gold plating your part of the code. Instead if having a little time over learn about the other technical parts that make up the product your company develops.
+
+Knowing more things will increase your value. It will also make your life easier since you can solve more problems when having the bigger picture, and sometime you can find the problem and solve it without having to wait for support from other departments.
+
+### Exercise 7: Act on Be an Generalist
+
+I would like to build an emulator of my companies system in [Renode](https://renode.io/).
