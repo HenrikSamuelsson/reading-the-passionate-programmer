@@ -56,3 +56,11 @@ Do not neglect the business domain. A business domain defines the company's over
 Do read the news on your companies website and the company news letters. Follow blogs and news channels related to your business domain.
 
 Have lunch with or coffee with the business side of the company you work at.
+
+## Tip 4: Be the Worst
+
+The essence of this tip is that you need to you need to surround yourself with people that are better than you and then make sure your learn from them.
+
+### Exercise 4: Act on Be the Worst
+
+Can try to work with people that are better than you at work. Can also work at side project on your spare time, can be open source project that are a little bit easier to get into than closed projects that you need a contacts in your network to gain access to.
