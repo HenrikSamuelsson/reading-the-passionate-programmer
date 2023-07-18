@@ -35,4 +35,14 @@ Python, C, C++, C#, JavaScript, Internet, Databases, Base operating systems (Win
 
 Java, Assembly, Fortran, Cobol, Ruby, wired communication, Eclipse, Subversion, Non-ip networks.
 
-## Tip 2: 
+## Tip 2: Supply and Demand
+
+What is in demand will vary over time. New technologies can be lucrative at the start but if there is a shortage an high compensation levels the market will eventually catch up and fill the gap. However in general there is always demand for deep expertise in any given area.
+
+Outsourcing can be a challenge if living in a country with high living standards and hence high salaries. There is a risk that the company moves part or the whole development department to country with lower costs. It can be beneficial to keep track on what technology low cost countries specialise in and then either avoid this tech or ensure having expertise knowledge in this area to fend of the competition.
+
+Exercise (Act on It)
+
+Off shore countries offer a wide array of different services such as blockchain, application programming interfaces, application development, data analytics, AI, testing services, support services.
+
+Since such a wide array of services are offered the best option is probably to specialise and work hard to become expert in a given field or ideally in a few fields.
