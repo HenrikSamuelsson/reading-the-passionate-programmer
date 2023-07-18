@@ -74,3 +74,11 @@ Would like to add here that learning other types of languages tends to teach you
 ### Exercise 5: Act on Invest in Your Intelligence
 
 I personally at work do systems programming in C, C++. Could possibly go for more script like languages like Python, or make something for he Web to act on this tip.
+
+## Tip 6: Don't Listen to Your Parents
+
+Don't trade fun for safety. Can be safe to work 9 to 5 at a big solid company but it if it is'nt fun then your are wasting away your only short life.
+
+### Exercise 6: Don't Listen to Your Parents
+
+Exercise to think about how much fear drives career choices. In my case not so much, when starting a new job it has usually been due to not functional work environment or because you should change job every third year because it has been proven beneficial for your salary growth.
