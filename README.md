@@ -92,3 +92,13 @@ Knowing more things will increase your value. It will also make your life easier
 ### Exercise 7: Act on Be an Generalist
 
 I would like to build an emulator of my companies system in [Renode](https://renode.io/).
+
+## Tip 8: Be a Specialist
+
+Specialist here equals expert in some programming language. This means more than knowing language well and some common libraries. For a compiled language this would mean knowing details about the compilation process, for a language that runs on a virtual machine it would mean knowing details about how the virtual machine works. Being a specialist will increase your value because you will be able to solve obscure problems and also help out more junior team members with basic problems.
+
+### Exercise 7: Act on Be a Specialist
+
+Find and study the advanced material for the language that you specialise in.
+
+Teach others about the language, teaching others is a great way to gain deeper understanding yourself.
