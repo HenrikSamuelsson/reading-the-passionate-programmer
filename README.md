@@ -11,6 +11,10 @@ Compilation of notes and material related to reading the book The Passionate Pro
 **Pages:** 191 (pdf version)  
 **Keywords:** business, career, programming, technology, computer-science, non-fiction, software-engineering
 
+## Part 1
+
+First part of the book is what to think about when investing time in efforts intended to help your career and general well-being as a software developer.
+
 ## Tip 1: Lead or Bleed?
 
 There is limited time available and many technologies to master. Need to try to make an informed decision on what the invest time and money on.
@@ -19,7 +23,7 @@ Can be beneficial to invest time in learning new technologies that might be a hi
 
 Besides the new and old there is also a big part in the middle that have been around for a while an likely to stick around, these technologies are relevant to learn more about.
 
-### Exercise 1: Act on It
+### Exercise 1: Act on It Lead or Bleed
 
 List of early, middle, and late adaption technologies, as I see it in 2023.
 
@@ -41,7 +45,7 @@ What is in demand will vary over time. New technologies can be lucrative at the 
 
 Outsourcing can be a challenge if living in a country with high living standards and hence high salaries. There is a risk that the company moves part or the whole development department to country with lower costs. It can be beneficial to keep track on what technology low cost countries specialise in and then either avoid this tech or ensure having expertise knowledge in this area to fend of the competition.
 
-### Exercise 2: Act on It
+### Exercise 2: Act on It Supply and Demand
 
 Off shore countries offer a wide array of different services such as blockchain, application programming interfaces, application development, data analytics, AI, testing services, support services.
 
@@ -51,7 +55,7 @@ Since such a wide array of services are offered the best option is probably to s
 
 Do not neglect the business domain. A business domain defines the company's overall area of activity. Generally speaking, it's the service the company provides to its clients.
 
-### Exercise 3: Act on It
+### Exercise 3: Act on It Coding Don't Cut It Any More
 
 Do read the news on your companies website and the company news letters. Follow blogs and news channels related to your business domain.
 
@@ -112,3 +116,6 @@ This tip relates to be a specialist, the specialisation should not be to narrow.
 Look into various way to acheive what you specialise in with products from different vendors. For example if you use ordinary use one set of tools delivered by one company, try building a duplicate of parts of your project with tools from another company.
 
 For me personally as an embedded developer this could mean trying two different real time operating systems and ensuring that the rest of the code base is independent of the operating system used.
+
+## Tip 10: Love It or Leave It
+
