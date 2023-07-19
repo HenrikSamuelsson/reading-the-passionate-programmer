@@ -11,9 +11,9 @@ Compilation of notes and material related to reading the book The Passionate Pro
 **Pages:** 191 (pdf version)  
 **Keywords:** business, career, programming, technology, computer-science, non-fiction, software-engineering
 
-## Part 1
+## Part 1 Choosing Your Market
 
-First part of the book is what to think about when investing time in efforts intended to help your career and general well-being as a software developer.
+First part of the book is what to think about when investing time in efforts intended to help your career and general well-being as a software developer. Can be thought of as investing money, will need to make an analyze before choosing what to invest in.  
 
 ## Tip 1: Lead or Bleed?
 
@@ -118,4 +118,14 @@ Look into various way to acheive what you specialise in with products from diffe
 For me personally as an embedded developer this could mean trying two different real time operating systems and ensuring that the rest of the code base is independent of the operating system used.
 
 ## Tip 10: Love It or Leave It
+
+It is generally hard to become great at something if you are not passionate about and instead do it only for money, this is true also for software engineering.
+
+### Exercise 10: Act on Love it or Leave It
+
+If not passionate about your job, find another job or check up on possibilities to do something else on your current job.
+
+Think about and take notes on what you enjoy doing and who you enjoy working with. Then think about how you can get to do more of what you like and less of what you do not like. Can the not so fun part be delegated, or automated away, maybe even just ignored.
+
+## Part 2 Investing in Your Product
 
