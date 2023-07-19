@@ -155,4 +155,10 @@ Recommendation was to buy a MBA book, browsed around among these but in the end 
 
 The term bottom line obviously comes from the result when adding up everything, expenses and income, as an engineer you know enough about math to understand this. Business people tend to have somewhat shallow knowledge in mathematics so might not be obvious to them tough.
 
+## Tip 13: Find a Mentor
 
+Ties in with the tip on surrounding yourself with people that are better than you are. A mentor can help you become better faster by pointing you in the right direction.
+
+### Exercise 13: Act on Find a Mentor
+
+There are guides available on-line if not being able to find a mentor. The reason for me starting this book is actually because I am on a learning path to learn C++, see [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap).
