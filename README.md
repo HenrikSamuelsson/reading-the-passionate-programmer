@@ -102,3 +102,13 @@ Specialist here equals expert in some programming language. This means more than
 Find and study the advanced material for the language that you specialise in.
 
 Teach others about the language, teaching others is a great way to gain deeper understanding yourself.
+
+## Tip 9: Don't Put All Your Eggs in Someone Else's Basket
+
+This tip relates to be a specialist, the specialisation should not be to narrow. Especially it is not ideal to be specialised in a technology that is is proprietary and only delivered from one single company. The company might for example be bought by an competitor that only want to buy the company to liquidate the technology to get it off the market. It is high risk to be very much specialised in something that you have limited control over.
+
+### Exercise 8: Act on Don't Put All Your Eggs in Someone Else's Basket
+
+Look into various way to acheive what you specialise in with products from different vendors. For example if you use ordinary use one set of tools delivered by one company, try building a duplicate of your project with tools from another company.
+
+For me personally as an embedded developer this could mean trying two different real time operating systems and ensuring that the rest of the code base is independent of the operating system used.
