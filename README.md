@@ -109,6 +109,6 @@ This tip relates to be a specialist, the specialisation should not be to narrow.
 
 ### Exercise 9: Act on Don't Put All Your Eggs in Someone Else's Basket
 
-Look into various way to acheive what you specialise in with products from different vendors. For example if you use ordinary use one set of tools delivered by one company, try building a duplicate of your project with tools from another company.
+Look into various way to acheive what you specialise in with products from different vendors. For example if you use ordinary use one set of tools delivered by one company, try building a duplicate of parts of your project with tools from another company.
 
 For me personally as an embedded developer this could mean trying two different real time operating systems and ensuring that the rest of the code base is independent of the operating system used.
