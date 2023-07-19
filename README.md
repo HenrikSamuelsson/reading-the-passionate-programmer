@@ -129,3 +129,4 @@ Think about and take notes on what you enjoy doing and who you enjoy working wit
 
 ## Part 2 Investing in Your Product
 
+Part 2 seems to pretty much the same topics as part 1, unclear to me why the book is separated into two books, maybe so you can divided the reading of the book over two days :-)
