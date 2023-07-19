@@ -107,7 +107,7 @@ Teach others about the language, teaching others is a great way to gain deeper u
 
 This tip relates to be a specialist, the specialisation should not be to narrow. Especially it is not ideal to be specialised in a technology that is is proprietary and only delivered from one single company. The company might for example be bought by an competitor that only want to buy the company to liquidate the technology to get it off the market. It is high risk to be very much specialised in something that you have limited control over.
 
-### Exercise 8: Act on Don't Put All Your Eggs in Someone Else's Basket
+### Exercise 9: Act on Don't Put All Your Eggs in Someone Else's Basket
 
 Look into various way to acheive what you specialise in with products from different vendors. For example if you use ordinary use one set of tools delivered by one company, try building a duplicate of your project with tools from another company.
 
