@@ -11,7 +11,7 @@ Compilation of notes and material related to reading the book The Passionate Pro
 **Pages:** 191 (pdf version)  
 **Keywords:** business, career, programming, technology, computer-science, non-fiction, software-engineering
 
-## Part 1 Choosing Your Market
+## Part 1 - Choosing Your Market
 
 First part of the book is what to think about when investing time in efforts intended to help your career and general well-being as a software developer. Can be thought of as investing money, will need to make an analyze before choosing what to invest in.  
 
@@ -127,6 +127,32 @@ If not passionate about your job, find another job or check up on possibilities 
 
 Think about and take notes on what you enjoy doing and who you enjoy working with. Then think about how you can get to do more of what you like and less of what you do not like. Can the not so fun part be delegated, or automated away, maybe even just ignored.
 
-## Part 2 Investing in Your Product
+## Part 2 - Investing in Your Product
 
 Part 2 seems to pretty much the same topics as part 1, unclear to me why the book is separated into two books, maybe so you can divided the reading of the book over two days :-)
+
+## Tip 11: Learn to Fish
+
+It is important to be self sufficient to have full control of your career. Don't ask people to do something for you, ask them to show how to do it and if possible do it yourself next time.
+
+This also goes for digital assistants and wizards, these can be used but ideally you should now how to do it yourself from scratch to avoid being vendor dependent (see also tip 9).
+
+### Exercise 11: Act on Learn to Fish
+
+Have noticed in the drawing program that I use to document architecture in UML that there are some more complex figures with dynamic behaviour. These however do not alway behave as I want them to behave. Will learn how to make my own variants and put these in a library that will enable me to work faster in the future.
+
+## Tip 12: Learn How Businesses Really Work
+
+Learn about the business.
+
+Related to Tip 3: Coding Don't Cut It Any More but more about how the company is doing in financial terms.
+
+Would personally argue that this is not a priority since it does not really matter how a particular company is doing because there is an abundance of other companies that you can work for if you are good at what you do.
+
+### Exercise 12: Act on Learn How Businesses Really Work
+
+Recommendation was to buy a MBA book, browsed around among these but in the end I landed on a somewhat related book Crucial Conversations: Tools for Talking When Stakes are High, Third Edition that seemed interesting so will read this.
+
+The term bottom line obviously comes from the result when adding up everything, expenses and income, as an engineer you know enough about math to understand this. Business people tend to have somewhat shallow knowledge in mathematics so might not be obvious to them tough.
+
+
