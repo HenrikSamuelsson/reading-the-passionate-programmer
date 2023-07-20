@@ -218,3 +218,7 @@ Your value as a developer will increase if having an proven track record of auto
 ### Exercise 19: Act on Automate Yourself into a Job
 
 When doing exercise from books I tend to use a certain structure to organize the solutions in the file system. I create this structure manually as I do the exercises. This could be automated by having a script create the folder structure and some template files for me.
+
+## Part 3 Executing
+
+This section holds tips on going from theory to practice to enable being a finisher that takes projects all the way.
