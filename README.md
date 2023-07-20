@@ -172,3 +172,21 @@ Being a mentor will increase the size of your network and make it stronger.
 ### Exercise 14: Act on Being a Mentor
 
 If nothing else you can always start by answering question at a forum such as [Stack Overflow](https://stackoverflow.com/).
+
+### Tip 15: Practice, Practice, Practice
+
+Must do deliberate practice to get better. The practise should be a bit of a pain to stretch you limits.
+
+Some ideas on practice:
+
+- Learn a new programming language
+- Learn new ways to implement a known problem
+- Do katas, meaning solving an old problem again, time yourself trying to do it faster and faster
+- Try to make a program faster, benchmark it for speed
+- Try to make a program use less memory, benchmark it for memory consumption
+- Read other persons code and improve upon it, motivate your improvements
+- Enter coding competitions
+
+### Exercise 16: Act on Practice, Practice, Practice
+
+Solve a problem for example from [Advent of Code](https://adventofcode.com/) or the [Coding Dojo](https://codingdojo.org/).
