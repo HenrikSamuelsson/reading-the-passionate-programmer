@@ -208,3 +208,13 @@ There has already been written a lot of great software. Learning can be accelera
 ### Exercise 18: Act on On the Shoulder of Giants
 
 Will study a project at work that another developer have made.
+
+## Tip 19: Automate Yourself into a Job
+
+A lot of things that software developers do can be automated. Benefits are speed increase and less mistakes once the automation scripts have been developed, drawback is the initial investment in time.
+
+Your value as a developer will increase if having an proven track record of automating things.
+
+### Exercise 19: Act on Automate Yourself into a Job
+
+When doing exercise from books I tend to use a certain structure to organize the solutions in the file system. I create this structure manually as I do the exercises. This could be automated by having a script create the folder structure and some template files for me.
