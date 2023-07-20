@@ -200,3 +200,11 @@ Developing software is a process and some ways of developing software have been 
 DevOps can be considered a software metrology, will read the books[Accelerate DevOps with GitHub](https://www.packtpub.com/product/accelerate-devops-with-github/9781801813358) and [Automating DevOps with GitLab CI/CD Pipelines](https://www.packtpub.com/product/automating-devops-with-gitlab-cicd-pipelines/9781803233000).
 
 Shall while reading get hands on and apply some of the concepts, to improve upon my knowledge in this area. Hope to learn about the differences between GitHub and GitLab to be able to choose what platform to go for as default for new projects.
+
+## Tip 18: On the Shoulder of Giants
+
+There has already been written a lot of great software. Learning can be accelerated by studying this software. The proper way to learn is to study code like reading a book, really take your time and dive deep into small sections of code.
+
+### Exercise 18: Act on On the Shoulder of Giants
+
+Will study a project at work that another developer have made.
