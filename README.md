@@ -161,4 +161,4 @@ Ties in with the tip on surrounding yourself with people that are better than yo
 
 ### Exercise 13: Act on Find a Mentor
 
-There are guides available on-line if not being able to find a mentor. The reason for me starting this book is actually because I am on a learning path to learn C++, see [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap).
+There are guides available on-line if not being able to find a mentor. The reason for me starting this book is actually because I am on a guide to learn C++, see [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap).
