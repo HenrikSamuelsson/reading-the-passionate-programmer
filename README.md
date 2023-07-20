@@ -190,3 +190,13 @@ Some ideas on practice:
 ### Exercise 16: Act on Practice, Practice, Practice
 
 Solve a problem for example from [Advent of Code](https://adventofcode.com/) or the [Coding Dojo](https://codingdojo.org/).
+
+## Tip 17: The Way That You Do It
+
+Developing software is a process and some ways of developing software have been proven better than others. Fortunately many different methodologies have been have already been developed that have been proven to work well. Our work as developers will become easier in the long run if taking the effort to learn and follow one of these methodologies.
+
+### Exercise 17: Act on The Way That You Do It
+
+DevOps can be considered a software metrology, will read the books[Accelerate DevOps with GitHub](https://www.packtpub.com/product/accelerate-devops-with-github/9781801813358) and [Automating DevOps with GitLab CI/CD Pipelines](https://www.packtpub.com/product/automating-devops-with-gitlab-cicd-pipelines/9781803233000).
+
+Shall while reading get hands on and apply some of the concepts, to improve upon my knowledge in this area. Hope to learn about the differences between GitHub and GitLab to be able to choose what platform to go for as default for new projects.
