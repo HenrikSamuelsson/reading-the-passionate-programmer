@@ -162,3 +162,13 @@ Ties in with the tip on surrounding yourself with people that are better than yo
 ### Exercise 13: Act on Find a Mentor
 
 There are guides available on-line if not being able to find a mentor. The reason for me starting this book is actually because I am on a guide to learn C++, see [CppDeveloperRoadmap](https://github.com/salmer/CppDeveloperRoadmap).
+
+## Tip 14: Be a Mentor
+
+Being a mentor will force you to reorganize your knowledge in your mind deepening the knowledge.
+
+Being a mentor will increase the size of your network and make it stronger.
+
+### Exercise 14: Act on Being a Mentor
+
+If nothing else you can always start by answering question at a forum such as [Stack Overflow](https://stackoverflow.com/).
