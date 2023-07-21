@@ -191,7 +191,7 @@ Some ideas on practice:
 
 Solve a problem for example from [Advent of Code](https://adventofcode.com/) or the [Coding Dojo](https://codingdojo.org/).
 
-## Tip 15: The Way That You Do It
+### Tip 15: The Way That You Do It
 
 Developing software is a process and some ways of developing software have been proven better than others. Fortunately many different methodologies have been have already been developed that have been proven to work well. Our work as developers will become easier in the long run if taking the effort to learn and follow one of these methodologies.
 
@@ -201,7 +201,7 @@ DevOps can be considered a software metrology, will read the books[Accelerate De
 
 Shall while reading get hands on and apply some of the concepts, to improve upon my knowledge in this area. Hope to learn about the differences between GitHub and GitLab to be able to choose what platform to go for as default for new projects.
 
-## Tip 16: On the Shoulder of Giants
+### Tip 16: On the Shoulder of Giants
 
 There has already been written a lot of great software. Learning can be accelerated by studying this software. The proper way to learn is to study code like reading a book, really take your time and dive deep into small sections of code.
 
@@ -209,7 +209,7 @@ There has already been written a lot of great software. Learning can be accelera
 
 Will study a project at work that another developer have made.
 
-## Tip 17: Automate Yourself into a Job
+### Tip 17: Automate Yourself into a Job
 
 A lot of things that software developers do can be automated. Benefits are speed increase and less mistakes once the automation scripts have been developed, drawback is the initial investment in time.
 
@@ -223,7 +223,7 @@ When doing exercise from books I tend to use a certain structure to organize the
 
 This section holds tips on going from theory to practice to enable being a finisher that takes projects all the way.
 
-## Tip 18: Right Now
+### Tip 18: Right Now
 
 When in a project always keep the focus on what the team can do right now to move on step closer to finishing.
 
