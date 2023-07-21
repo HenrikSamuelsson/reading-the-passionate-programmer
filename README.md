@@ -250,3 +250,17 @@ Beware that things that the customer have strong opinions on such as the user-in
 Practice mind reading by before a meeting in a project just before the meeting start try to predict what the decision on what to be done in the project next.
 
 Prepare material for example documentation that you think other team members might find useful, then when you get a question on the project answer their question by showing them the documentation. Wikis and readme files are a good format for this type of documentation.
+
+### Tip 20: Daily Hit
+
+Ensure that you do something daily that is in line with the companies goals.
+
+Your company probably have written goals, and you as an employee will likely have some type of development plan. Each and every day write down something small that can be done to take you closer to the goal.
+
+Inform your manager when having some progress on of the goals by completing daily hits.
+
+If not having time for daily hits try having weekly hits.
+
+#### Exercise 20: Act on Daily Hit
+
+Will on sundays make a list of 5 daily hits to do for the coming week based on work related goals.
