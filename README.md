@@ -238,3 +238,15 @@ By keeping focus on what can be done right now we can move faster and fight Park
 #### Exercise 18: Act on Right Now
 
 Have a task to get rid of static code checking warnings in a project, this can be fixed by right now just check out the warnings for a given file and fix this single file.
+
+### Tip 19: Mind Reader
+
+Practice listening and planning ahead for what needs to be done in a project. Then get on it and do the tasks. Your boss and your team will be surprised and happy to see that something that is already done will be done.
+
+Beware that things that the customer have strong opinions on such as the user-interface should not be changed without involving the customer.
+
+#### Exercise 19: Act on Mind Reader
+
+Practice mind reading by before a meeting in a project just before the meeting start try to predict what the decision on what to be done in the project next.
+
+Prepare material for example documentation that you think other team members might find useful, then when you get a question on the project answer their question by showing them the documentation. Wikis and readme files are a good format for this type of documentation.
