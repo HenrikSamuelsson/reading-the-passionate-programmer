@@ -251,7 +251,7 @@ Practice mind reading by before a meeting in a project just before the meeting s
 
 Prepare material for example documentation that you think other team members might find useful, then when you get a question on the project answer their question by showing them the documentation. Wikis and readme files are a good format for this type of documentation.
 
-### Tip 20: Daily Hit
+### Tip 21: Daily Hit
 
 Ensure that you do something daily that is in line with the companies goals.
 
@@ -261,16 +261,18 @@ Inform your manager when having some progress on of the goals by completing dail
 
 If not having time for daily hits try having weekly hits.
 
-#### Exercise 20: Act on Daily Hit
+#### Exercise 21: Act on Daily Hit
 
 Will on sundays make a list of 5 daily hits to do for the coming week based on work related goals.
 
-### Tip 21: Remember Who You Work For
+### Tip 22: Remember Who You Work For
 
 Align yourself with the needs of the business and also align the business with your needs. This will ensure that you’re executing on the right things.
 
 Aligning goes both vertical and horizontal in the meaning that one must align with the team members as well as the managers.
 
-#### Exercise 21: Act on Remember Who You Work For
+#### Exercise 22: Act on Remember Who You Work For
 
 At the point on writing this its vacation times but when getting back there will be a start-up meeting. This meeting will be a good opportunity to get aligned with the business needs.
+
+### 
