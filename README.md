@@ -264,3 +264,13 @@ If not having time for daily hits try having weekly hits.
 #### Exercise 20: Act on Daily Hit
 
 Will on sundays make a list of 5 daily hits to do for the coming week based on work related goals.
+
+### Tip 21: Remember Who You Work For
+
+Align yourself with the needs of the business and also align the business with your needs. This will ensure that you’re executing on the right things.
+
+Aligning goes both vertical and horizontal in the meaning that one must align with the team members as well as the managers.
+
+#### Exercise 21: Act on Remember Who You Work For
+
+At the point on writing this its vacation times but when getting back there will be a start-up meeting. This meeting will be a good opportunity to get aligned with the business needs.
