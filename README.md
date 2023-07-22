@@ -320,3 +320,25 @@ There is a thinking among some developers that you can become irreplaceable by s
 #### Exercise 26: Act on A Pebble in a Bucket of Water
 
 Always strive for writing code and documentation that makes it easy for someone else to take over your job. Ensure that you share knowledge that only you have to anyone that will take the time to listen to you.
+
+### Tip 27: Learn to Love Maintenance
+
+It is more common wanting to start over with new projects than maintaining old code. The idea being that is easier to get new code correct and clean than getting the old code base up to standard. There is also a thinking that there is more status in developing something new than maintaining old code.
+
+The above thinking is flawed due to that as soon the first piece of code for a new project have been checked in you have already entered the maintenance phase again. It is also so that maintenance of old code will sooner or later include adding new features. There is in reality no clear line between maintaining and developing code for green field projects.
+
+#### Exercise 27: Act on Learn to Love Maintenance
+
+Create metrics for measuring the improvement of the code that you are responsible for maintaining. Measure before and after refactoring the code and note the progress you make. The metrics will motivate you work on the code. The metrics can also be presented to your manager making it possible to have a measure that proves how you provide value to the company.
+
+Example of metrics:
+
+- Number of warnings reported by static code checkers
+- Cyclomatic complexity measured by static code checkers
+- Up-time of the system
+- Number of error log entries
+- Test coverage
+- Reduced number of bugs in the project backlog
+- Added features from the backlog
+- More complete documentation
+- Automation of tasks that previously was done manually
