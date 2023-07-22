@@ -342,3 +342,28 @@ Example of metrics:
 - Added features from the backlog
 - More complete documentation
 - Automation of tasks that previously was done manually
+
+### Tip 28: Eight Hour Burn
+
+Working only eight hours a day can bee seen as a wast of time since this is only about half the available hours each day, assuming using eight hours for sleep. How ever only working eight hours is also good because having less hours will create a sense of urgency to make the most of the limited time at work.
+
+Only working eight hours will also more or less completely eliminate the risk of burn out because there will be plenty of time to relax. Need to remember that we are in it for the long run, its a marathon not a sprint.
+
+Keep in mind that working a lot can make you seem dedicated but it can also make it look that your are having trouble handling your work.
+
+#### Exercise 28: Act on Eight-Hour Burn
+
+Ensure having good sleep hygiene and sleep well. Then when waking up do your morning routine including breakfast then get on working hard:
+
+- Work hard for four hours starting the same time every day
+  - Tick does tasks off
+  - No wasting time
+  - Work according to the plan
+- One hour lunch after four hours
+  - Talk to colleagues during lunch to stay aligned on the goals
+  - Ideally include some physical activity during lunch, walk, or a quick intense workout
+- Work hard another four hours after lunch
+  - Hardest part since can be a bit tired after the food, might wanna include a power nap
+  - Keep an eye on the time left of the day to motivate you to work intensely
+  - Always stop working after fours hours, no cheating staying extra at work
+- Leave work and enjoy the rest of the day todo whatever you want
