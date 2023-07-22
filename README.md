@@ -173,7 +173,7 @@ Being a mentor will increase the size of your network and make it stronger.
 
 If nothing else you can always start by answering question at a forum such as [Stack Overflow](https://stackoverflow.com/).
 
-### Tip 14: Practice, Practice, Practice
+### Tip 15: Practice, Practice, Practice
 
 Must do deliberate practice to get better. The practise should be a bit of a pain to stretch you limits.
 
@@ -187,35 +187,35 @@ Some ideas on practice:
 - Read other persons code and improve upon it, motivate your improvements
 - Enter coding competitions
 
-#### Exercise 14: Act on Practice, Practice, Practice
+#### Exercise 15: Act on Practice, Practice, Practice
 
 Solve a problem for example from [Advent of Code](https://adventofcode.com/) or the [Coding Dojo](https://codingdojo.org/).
 
-### Tip 15: The Way That You Do It
+### Tip 16: The Way That You Do It
 
 Developing software is a process and some ways of developing software have been proven better than others. Fortunately many different methodologies have been have already been developed that have been proven to work well. Our work as developers will become easier in the long run if taking the effort to learn and follow one of these methodologies.
 
-#### Exercise 15: Act on The Way That You Do It
+#### Exercise 16: Act on The Way That You Do It
 
 DevOps can be considered a software metrology, will read the books[Accelerate DevOps with GitHub](https://www.packtpub.com/product/accelerate-devops-with-github/9781801813358) and [Automating DevOps with GitLab CI/CD Pipelines](https://www.packtpub.com/product/automating-devops-with-gitlab-cicd-pipelines/9781803233000).
 
 Shall while reading get hands on and apply some of the concepts, to improve upon my knowledge in this area. Hope to learn about the differences between GitHub and GitLab to be able to choose what platform to go for as default for new projects.
 
-### Tip 16: On the Shoulder of Giants
+### Tip 17: On the Shoulder of Giants
 
 There has already been written a lot of great software. Learning can be accelerated by studying this software. The proper way to learn is to study code like reading a book, really take your time and dive deep into small sections of code.
 
-#### Exercise 16: Act on On the Shoulder of Giants
+#### Exercise 17: Act on On the Shoulder of Giants
 
 Will study a project at work that another developer have made.
 
-### Tip 17: Automate Yourself into a Job
+### Tip 18: Automate Yourself into a Job
 
 A lot of things that software developers do can be automated. Benefits are speed increase and less mistakes once the automation scripts have been developed, drawback is the initial investment in time.
 
 Your value as a developer will increase if having an proven track record of automating things.
 
-#### Exercise 17: Act on Automate Yourself into a Job
+#### Exercise 18: Act on Automate Yourself into a Job
 
 When doing exercise from books I tend to use a certain structure to organize the solutions in the file system. I create this structure manually as I do the exercises. This could be automated by having a script create the folder structure and some template files for me.
 
@@ -223,7 +223,7 @@ When doing exercise from books I tend to use a certain structure to organize the
 
 This section holds tips on going from theory to practice to enable being a finisher that takes projects all the way.
 
-### Tip 18: Right Now
+### Tip 19: Right Now
 
 When in a project always keep the focus on what the team can do right now to move on step closer to finishing.
 
@@ -239,13 +239,13 @@ By keeping focus on what can be done right now we can move faster and fight Park
 
 Have a task to get rid of static code checking warnings in a project, this can be fixed by right now just check out the warnings for a given file and fix this single file.
 
-### Tip 19: Mind Reader
+### Tip 20: Mind Reader
 
 Practice listening and planning ahead for what needs to be done in a project. Then get on it and do the tasks. Your boss and your team will be surprised and happy to see that something that is already done will be done.
 
 Beware that things that the customer have strong opinions on such as the user-interface should not be changed without involving the customer.
 
-#### Exercise 19: Act on Mind Reader
+#### Exercise 20: Act on Mind Reader
 
 Practice mind reading by before a meeting in a project just before the meeting start try to predict what the decision on what to be done in the project next.
 
