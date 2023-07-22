@@ -275,4 +275,14 @@ Aligning goes both vertical and horizontal in the meaning that one must align wi
 
 At the point on writing this its vacation times but when getting back there will be a start-up meeting. This meeting will be a good opportunity to get aligned with the business needs.
 
-### 
+### Tip 23: Be Where You're At
+
+The long term goal can be to move up the career ladder but it should not take away the focus from the short-term goals. Most of the focus should be on the present. It is hence best to set short-term goals, perhaps weekly, that align with the long term goals. Then during the week focus on reaching the short-term goals. During the weekend its then time to recalibrate the long term goals with next weeks short-time goals.
+
+#### Exercise 23: Act on Be Where Your're At
+
+At the start of the week make a plan for what to acheive during the coming week at your current job. Include a little something that will help you move a bit closer to your next dream job.
+
+During the week focus on your current job and follow the plan. During lunches and breaks with your co-workers, focus the conversation on the goals of the weekly plan.
+
+Bit by bit this will take you to next step in your career.
