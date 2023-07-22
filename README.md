@@ -286,3 +286,15 @@ At the start of the week make a plan for what to acheive during the coming week 
 During the week focus on your current job and follow the plan. During lunches and breaks with your co-workers, focus the conversation on the goals of the weekly plan.
 
 Bit by bit this will take you to next step in your career.
+
+### Tip 24: How Good a Job Can I Do Today
+
+Not all tasks to do at work are created equal. Some task will be more uninteresting and annoying. A strategy for handling these task is to turn them into a competition.
+
+Say that you have neglected updating the documentation then try to focus on getting the documentation up to perfection with 100 coverage of all components. This will seem like a lot of hard work but this is the point we want it to be seen as a challenge, mighty quest that will take a hero to conquer.
+
+Making something harder will actually make you more motivated than just doing quick and dirty fix to follow a rule imposed by the system.
+
+#### Exercise 24: Act on How Good a Job Can I Do Today
+
+Pick a task that your have postponed. Plan for when and whom to present the result then get going with the aim of doing the task with perfection to meet your deadline, making the result visible of your hard work will motivate you.
