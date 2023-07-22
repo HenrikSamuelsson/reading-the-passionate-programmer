@@ -298,3 +298,25 @@ Making something harder will actually make you more motivated than just doing qu
 #### Exercise 24: Act on How Good a Job Can I Do Today
 
 Pick a task that your have postponed. Plan for when and whom to present the result then get going with the aim of doing the task with perfection to meet your deadline, making the result visible of your hard work will motivate you.
+
+### Tip 25: How Much Are You Worth
+
+Need to keep in the back of the head how much value you bring to the company compared to how much you cost.
+
+What you cost is the easiest part this about twice what you get as a salary.
+
+The value that you bring to the company is much harder. But what we can think about it at least how we can bring more value. Can we make the development more efficient, how? Can we add a feature that the customers will like? Can we use software to take away some hardware component to cut the cost of the next generation product?
+
+The goal here is that you should provide twice the value to the company compared to what you cost. Then it is a no-brainer for the company that they will want you to stay at the company.
+
+#### Exercise 25: Act on How Much Are You Worth
+
+Find out a little something about what the financial goals are for your company for the next year.
+
+### Tip 26: A Pebble in a Bucket of Water
+
+There is a thinking among some developers that you can become irreplaceable by sitting on knowledge that only you have. Thinking this way is a liability for the company since it creates a risk for the company. If you decide to leave it will cause trouble for the company. The conclusion is that trying to make yourself irreplaceable will instead actually increase the risk that you will be replaced.
+
+#### Exercise 26: Act on A Pebble in a Bucket of Water
+
+Always strive for writing code and documentation that makes it easy for someone else to take over your job. Ensure that you share knowledge that only you have to anyone that will take the time to listen to you.
