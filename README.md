@@ -407,3 +407,7 @@ The essence of this tip is that an three step process should be followed.
 1. Say it is the same as plan what to do, plan can be more or less detailed but there should be a planning step with written down results on what to do and also when to do it.
 2. Do it, this is execute on the plan, you have the plan and now it is up to you to ensure that you don't do anything else until the daily step in the plan have been accomplished. This will make you meet the deadline.
 3. Show it means communicating to management and team mates what have been done. This is important since you will come across as a doer and will get more freedom and influence in the future.
+
+## Part 4 Marketing... Not Just for Suits
+
+It is no idea to be great at software development if no-one knows it. Part of your work is to market yourself. Part four of the book is tip about how to market your services and knowledge.
