@@ -367,3 +367,9 @@ Ensure having good sleep hygiene and sleep well. Then when waking up do your mor
   - Keep an eye on the time left of the day to motivate you to work intensely
   - Always stop working after fours hours, no cheating staying extra at work
 - Leave work and enjoy the rest of the day todo whatever you want
+
+### Tip 29: Learn How to Fail
+
+Program defensively with asserts and unit test so that failures becomes visible as early as possible. Failures will happen, detecting a failure is good and important to find early before the customer detects it.
+
+When a problem is found raise the issue as early as possible. Take responsibility for the problem. Aim to have a suggested solution to the problem already when communicating the problem. Do ask for help if struggling with how to resolve the problem.
