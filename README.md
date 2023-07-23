@@ -400,3 +400,10 @@ Since there is no need to panic because it does not help it is important to reco
 
 Take notes on any time that your get into or close to panic mode. How does it feel. Try to becoming better at recognizing panic and understand that there is no idea to panic. Need to float above trying to see the bigger picture and base our actions on this instead.
 
+### Tip 32 Say It, Do It Show It
+
+The essence of this tip is that an three step process should be followed.
+
+1. Say it is the same as plan what to do, plan can be more or less detailed but there should be a planning step with written down results on what to do and also when to do it.
+2. Do it, this is execute on the plan, you have the plan and now it is up to you to ensure that you don't do anything else until the daily step in the plan have been accomplished. This will make you meet the deadline.
+3. Show it means communicating to management and team mates what have been done. This is important since you will come across as a doer and will get more freedom and influence in the future.
