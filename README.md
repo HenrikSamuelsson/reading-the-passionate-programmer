@@ -389,3 +389,14 @@ Stay organized on your commitments by having a list with every commitment each t
 - Record when you delivered (Completed Date)
 
 Review this list daily, communicate failures as early as possible.
+
+### Tip 31: Don't Panic
+
+Panic mode is maybe some type of overload on our brain. Back in the day panic might have served a purpose kicking of a fight or flight response to a dangerous situation. At the office you however seldom have to choose if to fight a bear or flee from it. Panic will not really serve any purpose for software developers. It is better to instead always keep cool and take time to analyze the input before making a decision on what to say or do.
+
+#### Exercise 31: Act on Don't Panic
+
+Since there is no need to panic because it does not help it is important to recognise when the monkey part start making the fast decisions and then have a micro-pause to let the more evolved but slower parts of the brain come into play.
+
+Take notes on any time that your get into or close to panic mode. How does it feel. Try to becoming better at recognizing panic and understand that there is no idea to panic. Need to float above trying to see the bigger picture and base our actions on this instead.
+
