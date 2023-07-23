@@ -400,7 +400,7 @@ Since there is no need to panic because it does not help it is important to reco
 
 Take notes on any time that your get into or close to panic mode. How does it feel. Try to becoming better at recognizing panic and understand that there is no idea to panic. Need to float above trying to see the bigger picture and base our actions on this instead.
 
-### Tip 32 Say It, Do It Show It
+### Tip 32 Say It, Do It, Show It
 
 The essence of this tip is that an three step process should be followed.
 
