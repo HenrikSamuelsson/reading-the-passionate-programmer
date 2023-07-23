@@ -373,3 +373,19 @@ Ensure having good sleep hygiene and sleep well. Then when waking up do your mor
 Program defensively with asserts and unit test so that failures becomes visible as early as possible. Failures will happen, detecting a failure is good and important to find early before the customer detects it.
 
 When a problem is found raise the issue as early as possible. Take responsibility for the problem. Aim to have a suggested solution to the problem already when communicating the problem. Do ask for help if struggling with how to resolve the problem.
+
+### Tip 30: Say No
+
+The natural inclination might be to say yes to everything. Ensure that you always take a moment to think before saying no or yes to do a requested task. Missing the deadline will make you look back and eats away on your value and credibility.
+
+#### Exercise 30: Act on Say No
+
+Stay organized on your commitments by having a list with every commitment each task shall have the following headers:
+
+- Who asked you to do the task (Requester)
+- What date should it be finished, make up your own date if not given (Due Date)
+- What did you commit to (Commitment)
+- Optional notes section, if overridden document this here for future reference (Notes)
+- Record when you delivered (Completed Date)
+
+Review this list daily, communicate failures as early as possible.
