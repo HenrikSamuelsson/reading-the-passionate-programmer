@@ -400,7 +400,7 @@ Since there is no need to panic because it does not help it is important to reco
 
 Take notes on any time that your get into or close to panic mode. How does it feel. Try to becoming better at recognizing panic and understand that there is no idea to panic. Need to float above trying to see the bigger picture and base our actions on this instead.
 
-### Tip 32 Say It, Do It, Show It
+### Tip 32: Say It, Do It, Show It
 
 The essence of this tip is that an three step process should be followed.
 
@@ -411,3 +411,31 @@ The essence of this tip is that an three step process should be followed.
 ## Part 4 Marketing... Not Just for Suits
 
 It is no idea to be great at software development if no-one knows it. Part of your work is to market yourself. Part four of the book is tip about how to market your services and knowledge.
+
+### Tip 33: Perceptions, Perschmeptions
+
+Do care about what people think about you.
+
+The old question
+
+> If a tree falls in the forest but nobody is there the hear it fall, did it make a sound?
+
+has the answer
+
+> Who cares?
+
+this is due to that if no one heard it fall it does not matter if there was a sound or not. The same holds for what you do it does not matter how much you do if someone have the perception that you do not do anything. It is your responsibility to ensure that peoples perception of you are aligned with what you actually do for them.
+
+#### Exercise 33: Act on Perceptions, Perschmeptions
+
+Different groups requires different understanding of what you do, it would be a waste of time to feed a project lead with info about design patterns used but you might be able to communicate this to other developers in the team.
+
+Below is a table of groups and perceptions they are probably interested in.
+
+| Group        | Perceptions Drivers                                 |
+| ---          | ---                                                 |
+| Testers      | What is ready to test, why did it fail, how to test |
+| Customer     | New features, bugs limitations, how to operate      |
+| Management   | Alignment, future outlook, solutions                |
+| Project Lead | Status, blockers, current development               |
+| Developers   | Splitting work, abstractions, interfaces            |
