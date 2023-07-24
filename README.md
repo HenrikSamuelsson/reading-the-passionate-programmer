@@ -424,7 +424,9 @@ has the answer
 
 > Who cares?
 
-this is due to that if no one heard it fall it does not matter if there was a sound or not. The same holds for what you do it does not matter how much you do if someone have the perception that you do not do anything. It is your responsibility to ensure that peoples perception of you are aligned with what you actually do for them.
+this is due to that if no one heard it fall it does not matter if there was a sound or not. The same holds for what you do it does not matter how much you do if someone have the perception that you do not do anything.
+
+It is your responsibility to ensure that peoples perception of you are aligned with what you actually do for them.
 
 #### Exercise 33: Act on Perceptions, Perschmeptions
 
