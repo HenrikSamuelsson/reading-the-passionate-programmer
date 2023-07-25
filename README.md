@@ -441,3 +441,11 @@ Below is a table of groups and perceptions they are probably interested in.
 | Management   | Alignment, future outlook, solutions                |
 | Project Lead | Status, blockers, current development               |
 | Developers   | Splitting work, abstractions, interfaces            |
+
+### Tip 51: Avoid Waterfall Career Planning
+
+Waterfall planning is a methodology for project development with much up front planning and completing each phase before moving on to the next. Agile is another methodology where the work is done more in parallel and the plan is fine tuned as the work progresses.
+
+It can be better to have an more agile approach to planning your career due to that things changes in life and what felt important three years ago might have changed now causing you to lose motivation and drive.
+
+Do plan your career and always have a long term plan but there is nothing wrong with adjusting the plan over time and it might also be necessary due to that there are external factors beyond our control.
