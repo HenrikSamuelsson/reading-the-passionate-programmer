@@ -449,3 +449,21 @@ Waterfall planning is a methodology for project development with much up front p
 It can be better to have an more agile approach to planning your career due to that things changes in life and what felt important three years ago might have changed now causing you to lose motivation and drive.
 
 Do plan your career and always have a long term plan but there is nothing wrong with adjusting the plan over time and it might also be necessary due to that there are external factors beyond our control.
+
+### Tip 52: Better Than Yesterday
+
+Big complex projects can bo overwhelming. With big projects we mean gigantic legacy code bases, an 100-year old house to be renovated with a big over grown garden, those 25 kg of overweight gained the last 10 years.
+
+It easy to postpone big projects because they are so overwhelming, instead we tend to work an completely other things to calm ourselves, like doing the dishes instead on going out for that run, we procrastinate.
+
+The problem with big projects is that they are so overwhelming and you cant see the end, there is a bit of a panic in the mind. The way to tackle this is to start with something small. There will still be a huge amount to do on the project after finishing this small task but the project will afterwards finishing the task be slightly smaller. The project will then be in better shape than yesterday, repeat this daily and after a while the project will not seem that daunting any more.
+
+#### Exercise 52: Act on Better Than Yesterday
+
+I want to accomplish the current projects.
+
+1. Stabilize and know every thing about the product that I am responsible for at work.
+2. Be better at cycling, want to have a FTP at 400 W.
+3. Be an embedded software developer expert.
+
+Will each day spend at least one hour for each of these projects doing tasks that take me in the right direction.
