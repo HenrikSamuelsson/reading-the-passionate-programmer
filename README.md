@@ -467,3 +467,9 @@ I want to accomplish the current projects.
 3. Be an embedded software developer expert.
 
 Will each day spend at least one hour for each of these projects doing tasks that take me in the right direction.
+
+### Tip 53: Go Independent
+
+Can be an idea to become an independent contractor to get an extra challenge and motivation to be your best. The thinking here is that working at a big company will make you anonymous which can make you lazy and starting to just float along.
+
+I personally would argue against this tip because if you are a contractor you will most likely anyway work at a big company just not as an employee. But there might still be an small benefit to your personal development and you can maybe also make more money.
